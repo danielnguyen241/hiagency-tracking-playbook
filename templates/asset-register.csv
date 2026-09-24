@@ -1,0 +1,5 @@
+project,domain,operator_email_proposed,owner_verified,gtm_id_observed,ga4_measurement_observed,ads_customer_id,ads_tag_id,property_id,conversion_label,status,evidence_date
+BIABnails,biabnails.au,hello@hiagency.au,UNVERIFIED,,,,,,,NEW_SETUP_PENDING,2026-09-24
+J.Aesthetic,jaesthetic.com.au,hello@hiagency.au,UNVERIFIED,GTM-58NSJDGR,G-Y2GZ91EPKT,207-008-5892,AW-18339592382,,wD57COGwjdQcEL7x_6hE,ADD_WHATSAPP_AND_PHONE_CLICKS,2026-09-24; Ads details 2026-09-07
+Everyday Clean,www.everydayclean.com.au,hello@hiagency.au,UNVERIFIED,GTM-PWW5HZTT,G-NTR516955X,,AW-16656608515,,,PUBLIC_INVENTORY_ONLY,2026-09-24
+HiAgency,hiagency.au,hello@hiagency.au,UNVERIFIED,GTM-T5XHRL68,,,,,,EXISTING_SNIPPET_ENDPOINT_404,2026-09-24

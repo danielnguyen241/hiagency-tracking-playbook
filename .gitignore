@@ -1,0 +1,10 @@
+secrets/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*credentials*.json
+*oauth*.json
+.DS_Store
+private/

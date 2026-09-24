@@ -1,0 +1,93 @@
+{
+  "checked_at_utc": "2026-09-24T03:16:02.865629+00:00",
+  "sites": [
+    {
+      "url": "https://biabnails.au/",
+      "final_url": "https://biabnails.au/",
+      "http_status": 200,
+      "ids": {
+        "gtm": [],
+        "ga4": [],
+        "ads": [],
+        "clarity": []
+      },
+      "scope": "Static public HTML only; not runtime or authenticated verification"
+    },
+    {
+      "url": "https://www.everydayclean.com.au/",
+      "final_url": "https://www.everydayclean.com.au/",
+      "http_status": 200,
+      "ids": {
+        "gtm": [
+          "GTM-PWW5HZTT"
+        ],
+        "ga4": [
+          "G-NTR516955X"
+        ],
+        "ads": [
+          "AW-16656608515"
+        ],
+        "clarity": []
+      },
+      "scope": "Static public HTML only; not runtime or authenticated verification"
+    },
+    {
+      "url": "https://hiagency.au/",
+      "final_url": "https://hiagency.au/",
+      "http_status": 200,
+      "ids": {
+        "gtm": [
+          "GTM-T5XHRL68"
+        ],
+        "ga4": [],
+        "ads": [],
+        "clarity": []
+      },
+      "scope": "Static public HTML only; not runtime or authenticated verification"
+    },
+    {
+      "url": "https://jaesthetic.com.au/collections/nail-courses-in-sydney",
+      "final_url": "https://jaesthetic.com.au/collections/nail-courses-in-sydney",
+      "http_status": 200,
+      "ids": {
+        "gtm": [
+          "GTM-58NSJDGR"
+        ],
+        "ga4": [],
+        "ads": [],
+        "clarity": []
+      },
+      "scope": "Static public HTML only; not runtime or authenticated verification"
+    }
+  ],
+  "public_containers": [
+    {
+      "container": "GTM-PWW5HZTT",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PWW5HZTT",
+      "status": 200,
+      "ga4_ids": [
+        "G-NTR516955X"
+      ],
+      "ads_ids": [],
+      "has_jaesthetic_lead_event": false,
+      "scope": "Public container code; presence does not prove firing or ownership"
+    },
+    {
+      "container": "GTM-T5XHRL68",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "container": "GTM-58NSJDGR",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-58NSJDGR",
+      "status": 200,
+      "ga4_ids": [
+        "G-Y2GZ91EPKT"
+      ],
+      "ads_ids": [
+        "AW-18339592382"
+      ],
+      "has_jaesthetic_lead_event": true,
+      "scope": "Public container code; presence does not prove firing or ownership"
+    }
+  ]
+}
